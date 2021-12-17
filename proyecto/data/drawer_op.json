@@ -1,0 +1,60 @@
+{
+    "nombreApp":"Componentes",
+    "rutas":[
+        {
+            
+        "texto":"Home",
+        "icon":"home",
+        "ruta":"home"
+    },
+    {
+         
+        "texto":"Buscar",
+        "icon":"buscar",
+        "ruta": "buscar"
+
+    },
+    {
+      
+        "texto":"Notificaciones",
+        "icon":"notificaciones",
+        "ruta": "notificaciones"
+    },
+    {  
+        "texto":"Favoritos",
+        "icon":"favoritos",
+        "ruta":"favoritos"
+    
+    },
+    {  
+        "texto":"Historial",
+        "icon":"historial",
+        "ruta":"historial"
+
+    
+    },
+    {  
+        "texto":"Mi cuenta",
+        "icon":"mi cuenta",
+        "ruta": "micuenta"
+
+    
+    },
+    {  
+        "texto":"Help",
+        "icon":"help",
+        "ruta":"help"
+
+    
+    },
+    {  
+        "texto":"Cerrar sesión",
+        "icon":"cerrar sesion",
+        "ruta":"cerrar"
+    
+    }
+   
+    
+    ]
+
+}

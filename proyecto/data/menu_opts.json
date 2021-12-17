@@ -1,0 +1,29 @@
+{
+    "nombreApp":"Componentes",
+    "rutas":[
+        {
+        "texto":"Nombre"
+    },
+    {
+         
+        "texto":"Apellido Paterno"
+    
+    },
+    {
+      
+        "texto":"Apellido Materno"
+    },
+    {  
+        "texto":"Correo Electronico"
+    
+    },
+    {
+      
+      
+        "texto":"Edad"
+    
+    }
+    
+    ]
+
+}
